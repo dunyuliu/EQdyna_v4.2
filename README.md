@@ -1,5 +1,7 @@
 # Inverting for Dynamic Stress Evolution with EQdyna
 
+https://zenodo.org/badge/latestdoi/616756877
+
 The repository hosts source code of EQdyna used in the article *Inverting for dynamic stress evolution on earthquake faults directly from seismic recordings* by Meng et al. (2023, in revision) to compute numerical Green's functions, forward rupture Model A, and checkerboard models. 
 
 Note that a newer version of EQdyna v5 is under active development in the repository https://github.com/dunyuliu/EQdyna.git. Numerical Green's function computation will be added to EQdyna v5 soon. 
